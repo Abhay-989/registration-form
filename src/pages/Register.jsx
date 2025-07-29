@@ -33,7 +33,7 @@ const navigate = useNavigate();
 
   return (
     <div className="max-w-xl mx-auto px-4 py-10">
-      <div className='bg-indigo-300 p-6 rounded-lg mb-3 border border-gray-300 transition-colors duration-200'>
+      <div className='bg-gradient-to-r from-[#d3ccf9] to-[#7d7bc7]  p-6 rounded-lg mb-3 border border-gray-300 transition-colors duration-200'>
         <h1 className="text-3xl font-semibold text-purple-800 text-center mb-6">IEEE MANIT STUDENT BRANCH</h1>
          <h2 className="text-3xl font-bold text-purple-500 text-center mb-6">Bootcamp Registration</h2>
 
